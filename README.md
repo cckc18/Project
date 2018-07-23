@@ -1,5 +1,7 @@
 # Project: Earning and Debt of College Students in U.S.
 
+Objective: 
+Build a machine learning model to predict college students' earning and debt based on data on [College Scorecard](https://collegescorecard.ed.gov/data/).
 
 description
 
