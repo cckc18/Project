@@ -5,7 +5,7 @@ Build a machine learning model to predict college students' earning and debt bas
 
 ![figure2](figure1.jpg) 
 
-**Figure 1:** Feature importances of a random forest forest model illustrating the key features determining the college students' earning and debt.
+**Figure 1:** Feature importance of a random forest model illustrating the key features determining college students' earning and debt.
 
 ![figure2](figure2.jpg) 
 
