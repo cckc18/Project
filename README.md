@@ -5,7 +5,7 @@ Build a machine learning model to predict college students' earning and debt bas
 
 
 
-![figure1](figure1.jpg) 
+!(figure1.jpg) 
 
 ![figure2](figure2.jpg) 
 
