@@ -1,8 +1,11 @@
-# test
+# Project: Earning and Debt of College Students in U.S.
+
 
 description
 
-![test_figure](test_figure.jpg) 
+![figure1](figure1.jpg) 
+
+![figure2](figure2.jpg) 
 
 
 Remarks:
